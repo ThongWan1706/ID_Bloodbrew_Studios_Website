@@ -3,6 +3,8 @@ body {
   margin: 0;
   background-color: #000000;
   color: #333;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Header */
@@ -90,7 +92,7 @@ h1 {
     text-align: center;
     width: 100%;
     max-width: 600px;
-    align-items: center;
+    margin: 0 auto; 
 }
 
 .shelf {
@@ -101,7 +103,7 @@ h1 {
     justify-content: center;
     gap:10px;
     margin-bottom: 40px;
-    border: 5px solid #443355;
+    border: 5px solid #e5caff;
 }
 
 .potion {
@@ -110,7 +112,7 @@ h1 {
     transition: transform 0.2s;
     padding: 2%;
     margin: 1%;
-    background-color: #6767bc;
+    background-color: #7070dc;
     font-size: small;
 }
 
@@ -122,7 +124,7 @@ h1 {
     width: 180px;
     height: 180px;
     margin: 0 auto;
-    border: 6px solid #333;
+    border: 6px solid #ffffff;
     border-radius: 50% 50% 40% 40%;
     background: radial-gradient(circle at 50% 100%, #1a1a1a, #000);
     display: flex;
@@ -130,6 +132,7 @@ h1 {
     justify-content: center;
     position: relative;
     transition: all 0.3s ease;
+    color: #ffffff;
 }
 
 
@@ -141,10 +144,12 @@ h1 {
 
 .cauldron.mixing {
     animation: shake 0.5s infinite;
+    color: #ffffff;
 }
 
 .ui-panel {
     margin-top: 30px;
+    color: #ffffff;
 }
 
 #reset-btn {
