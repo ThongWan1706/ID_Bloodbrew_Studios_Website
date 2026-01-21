@@ -1,4 +1,5 @@
 <h1>Bloodbound Alchemy</h1>
+Link of the website: https://thongwan1706.github.io/ID_Bloodbound-Alchemy_Website/
 
 <h1>Design Process</h1>
 
