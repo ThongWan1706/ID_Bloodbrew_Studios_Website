@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact Us Page</title>
+    <link rel="stylesheet" href="CSS/style.css" />
+    <link rel="icon" type="image/png" href="Images/logo.png" />
+
+    <!-- Font Style from Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kings&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quintessential&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nosifer&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <div class="logo-container">
+        <img src="Images/logo.png" alt="logo" class="logo-img" />
+        <span class="logo-text">Blood Brew Studio</span>
+      </div>
+
+      <div class="minigame">
+        <img src="Images/placeholder.jpg" alt="logo" class="logo-img" />
+        <span class="button-text"><a href="minigame.html">Mini Game</a></span>
+      </div>
+    </header>
+
+    <nav>
+      <ul class="navlist">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#">Merchandise</a></li>
+        <li><a href="discussion.html">Discussions</a></li>
+        <li><a href="#">Shop For Games</a></li>
+        <li><a href="contactus.html">Contact Us</a></li>
+      </ul>
+    </nav>
+
+    <section>
+      <h1>Contact Us</h1>
+      <p class="headerdescription">
+        Interested to work with us or have questions in doubt? Contact Us here!
+      </p>
+    </section>
+    <br />
+
+    <section class="contact-section">
+      <div class="contact-image-container">
+        <img src="Images/contactplaceholder.jpg" alt="ContactImage" />
+      </div>
+
+      <div class="contact-form-container">
+        <form action=" " method="POST" class="contact-form">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="name">Name</label>
+              <input type="text" id="name" name="name" required />
+            </div>
+            <div class="form-group">
+              <label for="contact-number">Contact Number</label>
+              <input type="tel" id="contact-number" name="contact-number" />
+            </div>
+          </div>
+
+          <div class="form-group full-width">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+
+          <div class="form-group full-width">
+            <label>Reason for Contact (Select all that apply):</label>
+            <div class="checkbox-group">
+              <label><input type="checkbox" name="reason" value="bug"> TechnicalBug/Error</label>
+              <label><input type="checkbox" name="reason" value="order_missing">Order Not Received</label>
+              <label><input type="checkbox" name="reason" value="ingameerror">In Game Error</label>
+              <label><input type="checkbox" name="reason" value="display_issue">Visual/Display Bug</label>
+            </div>
+          </div>
+
+          <div class="form-group full-width">
+            <label for="comments">Comments</label>
+            <textarea id="comments" name="comments" rows="10"></textarea>
+          </div>
+
+          <button type="submit" class="submit-button">Submit</button>
+        </form>
+      </div>
+    </section>
+  </body>
+</html>
