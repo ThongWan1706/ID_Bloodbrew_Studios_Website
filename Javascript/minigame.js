@@ -57,7 +57,25 @@ function processFormula() {
             'Ice + Light': 'Aurora Borealis!',
             'Fire + Fire': 'Pure Magma!',
             'Light + Light': "Thunderstorm!",
-        
+            'Shadow + Light': 'Twilight Essence!',
+            'Light + Shadow': 'Twilight Essence!',
+            'Nature + Fire': 'Ash Powder!',
+            'Fire + Nature': 'Ash Powder!',
+            'Nature + Ice': 'Permanent Frost Plant!',
+            'Ice + Nature': 'Permanent Frost Plant!',
+            'Arcane + Shadow': 'Void Rift!',
+            'Shadow + Arcane': 'Void Rift!',
+            'Metal + Fire': "Molten Steel!",
+            'Fire + Metal': "Molten Steel!",
+            'Arcane + Arcane': 'Pure Mana!',
+            'Nature + Shadow': 'NightShade Venom!',
+            'Shadow + Nature': 'NightShade Venom!',
+            'Metal + Light': 'Holy Armor!',
+            'Light + Metal': 'Holy Armor!',
+            'Fire + Wind': 'Blaze Gale!',
+            'Wind + Fire': 'Blaze Gale!',
+            'Wind + Light': 'Ascension Brew!',
+            'Light + Wind': 'Ascension Brew!'
         };
 
         const result = recipes[formula] || "A Failed Experiment x_x";
