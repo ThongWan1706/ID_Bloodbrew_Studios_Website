@@ -655,7 +655,7 @@ h2 {
   margin-bottom: 30px;
 }
 
-.cartbutton, .seemorebutton, .minigamebutton, .addtocartbutton {
+.cartbutton, .seemorebutton, .minigamebutton, .addtocartbutton, .proceedcheckout {
   display: inline-block;
   background-color: #e61414;
   color: #ffffff;
@@ -672,7 +672,7 @@ h2 {
   border-radius: 5px;
 }
 
-.cartbutton:hover, .seemorebutton:hover, .minigamebutton:hover, .addtocartbutton:hover {
+.cartbutton:hover, .seemorebutton:hover, .minigamebutton:hover, .addtocartbutton:hover, .proceedcheckout:hover {
   background-color: #000000;
   color: #e61414;
   border: 1px solid #e61414;
@@ -760,6 +760,7 @@ h2 {
     margin: 40px auto; 
     padding: 0 5%;
     gap: 25px; 
+    text-align: center;
 }
 
 .cart-header {
