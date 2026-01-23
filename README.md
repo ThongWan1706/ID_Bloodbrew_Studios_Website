@@ -1,15 +1,19 @@
-<h1>Bloodbound Alchemy</h1>
+<h1>Blood Brew Studio</h1>
 Link of the website: https://thongwan1706.github.io/ID_Bloodbound-Alchemy_Website/
 
-<h1>Design Process</h1>
+The Blood Brew Studio is founded by Thong Wan and Chloe, which focus on advertising on our our company branding through merchandise, game teasers and through the community page. The dark theme of the website matches with our main game theme, called "Bloodbound Alchemy".
 
+<h1>Design Process</h1>
+During the design phase, we want to center the website through immersive storytelling and thematic consistency as the game we're developing out, "Bloodbound Alchemy" took place in the Medieval time period where the player is a sorcerer that uses dark magic to brew potions by using human materials. The use of dark backgrounds, weathered textures, and the blood red color tone matches with the "Bloodbound" theme, which creates a high-contrast, moody atmosphere typical of dark fantasy and alchemical lore.
+
+For the icon for our company is represented as flask that is filled with blood and surrounded with eye balls, it's not only to enhance more of our unique company branding, but also provide immediate visual context for the alchemist role.
 
 <h3>List of User Stories: </h3>
 
 
 <h1>Features</h1>
 
-The features and structure of the pages for The Gilded Key website include:
+The features and structure of the pages for The Blood Breww Studio website include:
 
 1. Website General Structure & Navigation
 
@@ -31,6 +35,8 @@ The features and structure of the pages for The Gilded Key website include:
 <h1>Technologies Used</h1>
 The languages that I used for this project will be HTML, CSS and Javascript.
 
+<h2>Assistive AI</h1>
+
 <h1>Testing</h1>
 
 Contact form:
@@ -48,4 +54,4 @@ Content are all self created.
 
 
 <h1>Acknowledgements</h1>
-MFI_eZAgz4cnq2kQg:1763795024340&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zENwnGygERInUV_0g0XKeHGJEwefEKJ1XNp8V3tgIFOgMCFnPVxjLKzast-mAW6lY6x4yZaxANKsM-igoXsGb72p1hEK9MISj3sreICpn42460KfTSKgQfLw9TxISOaJFv8bCPeGr2CFsjTFxitan8tPWhAR0A&q=jewelry+website+design&sa=X&ved=2ahUKEwj6o4e_mIWRAxW0bGwGHe6IJvQQtKgLegQIERAB&biw=1536&bih=826&dpr=1.25 
+The layout for the discussion 
