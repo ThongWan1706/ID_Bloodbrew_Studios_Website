@@ -30,24 +30,56 @@ The main purpose of the website is not only to expand on our company branding, i
 
 <h1>Features</h1>
 
-The features and structure of the pages for The Blood Breww Studio website include:
+The features and structure of the pages for The Blood Brew Studio website include:
 
 1. Website General Structure & Navigation
 
-- Each page shares the identical header which contains the company logo ("/Images/Jewelry_logo.png") and a navigation bar with links to the Homepage, Product Page, Review Page and the Contact Page.
-- There is also a dedicated section that was present on all pages to highlight a promotion code for new members using a link ("<a href=""><u>New Member here? You can get the promotion code here!</u></a>").
-- All the pages also shared the copyright information in the footer "&copy; 2025 The Gilded Key. All rights reserved.".
+- Each page shares the identical header which contains the company logo ("Images/logo.png") and the Mini Game button which leads to the Mini Game page
+- Below the header there is a navigation bar with links to the Homepage, Merchandise Page, Discussion Page, Shop For Games Page and the Contact Page.
+- All the pages also shared the copyright information in the footer "&copy; 2026 Blood Brew Studio. All rights reserved.".
 - All pages also shared the same favicon logo, which is the company logo.
 
 <h2>Existing Features</h2>
 
 1. Navigation and Structure
-- All pages has a consistent header that includes a logo and a navigation bar
-- All pages has a section that a promotion link is placed for new members to collect if needed.
+- All pages has a consistent header that includes a logo, a mini game button and a navigation bar
 - All pages has a uniform footer that includes the company's copyright notice
 - All pages as a favicon icon, which is the company logo.
 
+2. Homepage
+- The pages focus on 
+
+3. Merchandise Page
+- The page focus on selling exclusive merch from the company
+- Each product has its own individual pages that includes:
+    - A title at display the product name
+    - A 360 model review 
+    - A detailed text description of the product
+    - The product's cost
+    - A Call to Action, which is the "Add to Cart" link, which helps the user to add the product into their cart.
+    - A "return" button (which is the arrow) that links back to the Merchandise Page
+
+4. Cart Page
+- The user will be able to access the Cart Page by clicking the View Cart button at the Merchandise Page
+- This page includes a list of items that the user added their interested products into the cart
+- It includes the quantity of the product, the name of the product and the price of the product
+- It also shows the grand total of the items they have in the cart
+- If there's no items being added in the cart, it will have a blank rectangle with the text that encourages users to add items into the cart
+- There's a delete button as well if the user want to remove the item from the cart
+- Once the user is sastified with the products that they want to buy, they can click onto the Proceed to Checkout button where the user will be prompt to fill up the relevant details
+
+5. Checkout Page
+- The user will be able to access the Checkout Page by clicking the Proceed to Checkout button in the View Cart Page
+- The page will show the form where user need to fill up their name, email address, a checkbox on whether the user need shipping of product and their delivery address
+- At the side of the form there is also the list that shows the order summary which calculate the grand total of the product that included GST and Shipping Fee
+
+
+
+
+
 <h2>Features Left to Implement</h2>
+I was thinking to implement a like list where the client can "like" a product
+
 
 <h1>Technologies Used</h1>
 The languages that I used for this project will be HTML, CSS and Javascript.
