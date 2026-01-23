@@ -14,6 +14,7 @@ For the icon for our company is represented as flask that is filled with blood a
 The main purpose of the website is not only to expand on our company branding, it also allow users to share their thoughts and sugesstions through the discussion page. It is because the game "Bloodbound Alchemy" has a lot of story endings, which can be determined by the choices made by the players in the game. The players can discuss different views regarding on the story and share their experiences there as well.
 
 <h3>List of User Stories: </h3>
+
 - As a visitor, I want to view the main navigation links in the header so that I can easily move between the homepage, merchandise page, shop for games page and the discussion page.
 
 - As a curious buyer, I want to see high-quality images of the products so that I can appreciate the aesthetic of the blood-bound ingredients before buying.
