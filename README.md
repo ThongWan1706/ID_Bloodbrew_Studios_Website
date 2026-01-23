@@ -1,15 +1,22 @@
 <h1>Blood Brew Studio</h1>
 Link of the website: https://thongwan1706.github.io/ID_Bloodbound-Alchemy_Website/
-
-The Blood Brew Studio is founded by Thong Wan and Chloe, which focus on advertising on our our company branding through merchandise, game teasers and through the community page. The dark theme of the website matches with our main game theme, called "Bloodbound Alchemy".
+<br>
+Founded by Thong Wan and Chloe, Blood Brew Studio is a game company that specializies in dark, atmospheric experiences and stories. Our work centers around our flagship title, "Bloodbound Alchemy."
 
 <h1>Design Process</h1>
 During the design phase, we want to center the website through immersive storytelling and thematic consistency as the game we're developing out, "Bloodbound Alchemy" took place in the Medieval time period where the player is a sorcerer that uses dark magic to brew potions by using human materials. The use of dark backgrounds, weathered textures, and the blood red color tone matches with the "Bloodbound" theme, which creates a high-contrast, moody atmosphere typical of dark fantasy and alchemical lore.
-
+<br>
 For the icon for our company is represented as flask that is filled with blood and surrounded with eye balls, it's not only to enhance more of our unique company branding, but also provide immediate visual context for the alchemist role.
+<br>
+The main purpose of the website is not only to expand on our company branding, it also allow users to share their thoughts and sugesstions through the discussion page. It is because the game "Bloodbound Alchemy" has a lot of story endings, which can be determined by the choices made by the players in the game. The players can discuss different views regarding on the story and share their experiences there as well.
 
 <h3>List of User Stories: </h3>
-
+- As a visitor, I want to view the main navigation links in the header so that I can easily move between the homepage, merchandise page, shop for games page and the discussion page.
+- As a curious buyer, I want to see high-quality images of the products so that I can appreciate the aesthetic of the blood-bound ingredients before buying.
+- As a user, I want to click the logo or "Home" link so that I can quickly return to the main landing page from any part of the site.
+- As a shopper, I want to visit the Cart page so that I can review my selected merchandise before checking out.
+- As a customer, I want to fill out the Contact Form with my Name, Contact Number, Email, and Comments so that I can inquire about display glitches or game bugs.
+- As an interested party, I want to click the "Submit" button after filling out my details sothat my contact information and comments are sent to the company, which can asked for collaborations.
 
 <h1>Features</h1>
 
