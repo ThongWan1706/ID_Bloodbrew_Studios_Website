@@ -7,11 +7,10 @@ Founded by Thong Wan and Chloe, Blood Brew Studio is a game company that special
 <h1>Design Process</h1>
 During the design phase, we want to center the website through immersive storytelling and thematic consistency as the game we're developing out, "Bloodbound Alchemy" took place in the Medieval time period where the player is a sorcerer that uses dark magic to brew potions by using human materials. The use of dark backgrounds, weathered textures, and the blood red color tone matches with the "Bloodbound" theme, which creates a high-contrast, moody atmosphere typical of dark fantasy and alchemical lore.
 
+The main purpose of the website is not only to expand on our company branding, it also allow users to share their thoughts and sugesstions through the discussion page. It is because the game "Bloodbound Alchemy" has a lot of story endings, which can be determined by the choices made by the players in the game. The players can discuss different views regarding on the story and share their experiences there as well.
 
 For the icon for our company is represented as flask that is filled with blood and surrounded with eye balls, it's not only to enhance more of our unique company branding, but also provide immediate visual context for the alchemist role.
 
-
-The main purpose of the website is not only to expand on our company branding, it also allow users to share their thoughts and sugesstions through the discussion page. It is because the game "Bloodbound Alchemy" has a lot of story endings, which can be determined by the choices made by the players in the game. The players can discuss different views regarding on the story and share their experiences there as well.
 
 <h3>List of User Stories: </h3>
 
