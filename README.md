@@ -101,28 +101,76 @@ The features and structure of the pages for The Blood Brew Studio website includ
 
 
 <h2>Features Left to Implement</h2>
-I was thinking to implement a like list where the user can "like" a product
+I was thinking to implement a like list where the user can "like" a product.
 
 
 <h1>Technologies Used</h1>
 The languages that I used for this project will be HTML, CSS and Javascript.
+The setting up of API I used the RestDB which are used to store the upcoming order list and contact form list.
 
 <h2>Assistive AI</h1>
+The relevant screenshots of assistive AI are being included in the Images folder ("/Images/AssistiveAIpictures).
+1. Cart API: Google Gemini was used to help with the implementation of the Cart API.
+2. Form API: Google Gemini was used to help with the implementation of the Form API.
+
 
 <h1>Testing</h1>
 
 Contact form:
 
 1. Go to the "Contact Us" page
-2. Try to submit the empty form and verify that an error message about the required fields appears
+2. Try to submit the empty form and verify that an error message about the required fields appears.
 3. Try to submit the form with all inputs valid and verify that a success message appears.
-4. Since the location of the form is empty, it will links to a plain page
+4. After submitting, it should lead back to the homepage.
 
+Individual Merchandise Page:
+
+1. Go to the Merchandise page using the navigation bar.
+2. Find a product you are interested to know.
+3. Click on the See More button.
+4. It should link to its respective page.
+5. Can click the play button on the model preview and rotate it around to see the different angles of the product.
+
+
+Cart Page:
+
+1. Go to the Merchandise page using the navigation bar.
+2. Find a product you are interested to know.
+3. Click on the See More button.
+4. Click onto the Add to Cart Button.
+5. The button should show as "Added! ✓", then return back to the "Add to Cart" text.
+6. After adding the product, click onto the return arrow button to go back to the Merchandise page.
+7. Click onto the View Cart button, the products that are being added in should be listed inside.
+8. Delete an item from the cart.
+9. Once everything is being setlled, click on the "Proceed to Checkout" button.
+
+Checkout Page:
+1. Go to the Merchandise page using the navigation bar
+2. Find a product you are interested to know.
+3. Click on the See More button.
+4. Click onto the Add to Cart Button.
+5. The button should show as "Added! ✓", then return back to the "Add to Cart" text.
+6. After adding the product, click onto the return arrow button to go back to the Merchandise page.
+7. Click onto the View Cart button, the products that are being added in should be listed inside.
+8. Delete an item from the cart.
+9. Once everything is being setlled, click on the "Proceed to Checkout" button.
+10. Try to submit the empty form and verify that an error message about the required fields appears.
+11. Try to submit the form with all inputs valid and the required shipping checkbox tickled, the grand total price should changed.
+12. It should be verify that a success message appears when the list is being submitted successfully.
+
+Mini Game Page:
+1. Go to the Mini Game Page by clicking the top right button which says "Mini Game".
+2. Try dragging in Phoenix Feather and Star Dust into the cauldron.
+3. The result should show "Sun Essence".
+4. Try dragging in Phoenix Feather again, it should remain unchange as the cauldron is being used.
+5. Click on the button that clear the cauldron
+6. Continue to drag in other materials to see different material combinations and results
 
 <h1>Content</h1>
 Content are all self created.
 
 <h1>Media</h1>
+Phone: https://www.pinterest.com/pin/422281208176306/
 
 
 <h1>Acknowledgements</h1>
