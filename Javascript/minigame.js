@@ -88,3 +88,12 @@ resetBtn.addEventListener('click', () => {
     currentMix = [];
     statusText.innerText = "Select two ingredients to begin...";
 });
+
+window.addEventListener('load', function() {
+    const loader = document.getElementById('loading-screen');
+    if (loader) {
+        setTimeout(() => {
+            loader.style.display = 'none';
+        }, 800);
+    }
+});

@@ -6,23 +6,71 @@
     <title>Shop for Games Page</title>
     <link rel="stylesheet" href="CSS/style.css" />
     <script src="Javascript/script.js"></script>
-    <link rel="icon" type="image/png" href="Images/logo.png">
+    <link rel="icon" type="image/png" href="Images/logo.png" />
 
     <!-- Font Style from Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Kings&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kings&display=swap"
+      rel="stylesheet"
+    />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Quintessential&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quintessential&display=swap"
+      rel="stylesheet"
+    />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Nosifer&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nosifer&display=swap"
+      rel="stylesheet"
+    />
 
+    <script
+      src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js"
+      type="module"
+    ></script>
+    <script src="Javascript/script.js"></script>
   </head>
   <body>
+    <!-- Mini Game Loading Animation -->
+    <div
+      id="loading-screen"
+      style="
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: #1a1a1a;
+        z-index: 9999;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      "
+    >
+      <dotlottie-wc
+        src="https://lottie.host/797260e9-3da7-4dd0-abe8-f0db9ad82f59/kjGwzCDS1C.lottie"
+        style="width: 600px; height: 300px"
+        autoplay
+        loop
+      ></dotlottie-wc>
+      <p
+        style="
+          color: #fff;
+          font-family: &quot;Quintessential&quot;, cursive;
+          margin-top: 20px;
+        "
+      >
+        Brewing your adventure...
+      </p>
+    </div>
+
     <header>
       <div class="logo-container">
         <img src="Images/logo.png" alt="logo" class="logo-img" />
@@ -49,36 +97,51 @@
 
     <section>
       <h1>Games Available!</h1>
-      <p class="headerdescription">
-        Games created by Blood Brew Studio!
-      </p>
+      <p class="headerdescription">Games created by Blood Brew Studio!</p>
     </section>
     <br />
 
-    <section class = "games">
-        <div class ="gamesdeveloped">
-            <h2>Bloodbound Alchemy</h2>
-            <img src="Images/placeholder.jpg" alt="gamepicture" class="gamepicture">
-            <br>
-            <div class="download-container">
-                <a href="https://store.steampowered.com/" class="download-btn steam">Get it on Steam</a>
-                <a href="https://www.apple.com/sg/app-store/" class="download-btn appstore">Download in App Store</a>
-                <a href="https://play.google.com/store/games?hl=en" class="download-btn playstore">Download in Google Play</a>
-            </div>
-            <br>
+    <section class="games">
+      <div class="gamesdeveloped">
+        <h2>Bloodbound Alchemy</h2>
+        <img
+          src="Images/placeholder.jpg"
+          alt="gamepicture"
+          class="gamepicture"
+        />
+        <br />
+        <div class="download-container">
+          <a href="https://store.steampowered.com/" class="download-btn steam"
+            >Get it on Steam</a
+          >
+          <a
+            href="https://www.apple.com/sg/app-store/"
+            class="download-btn appstore"
+            >Download in App Store</a
+          >
+          <a
+            href="https://play.google.com/store/games?hl=en"
+            class="download-btn playstore"
+            >Download in Google Play</a
+          >
         </div>
-        <div class ="gamesdeveloped">
-            <h2>Among the Innocent</h2>
-            <img src="Images/placeholder.jpg" alt="gamepicture" class="gamepicture">
-            <h2>Upcoming</h2>
-        </div>
+        <br />
+      </div>
+      <div class="gamesdeveloped">
+        <h2>Among the Innocent</h2>
+        <img
+          src="Images/placeholder.jpg"
+          alt="gamepicture"
+          class="gamepicture"
+        />
+        <h2>Upcoming</h2>
+      </div>
     </section>
-    
+
     <footer class="site-footer">
       <div class="copyright">
         <p>&copy; 2026 Blood Brew Studio. All rights reserved.</p>
       </div>
     </footer>
-
   </body>
 </html>

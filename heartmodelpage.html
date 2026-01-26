@@ -6,24 +6,72 @@
     <title>Heart Potion Model Page</title>
     <link rel="stylesheet" href="CSS/style.css" />
     <script src="Javascript/checkout.js"></script>
-    <link rel="icon" type="image/png" href="Images/logo.png">
+    <link rel="icon" type="image/png" href="Images/logo.png" />
 
     <!-- Font Style from Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Kings&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kings&display=swap"
+      rel="stylesheet"
+    />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Quintessential&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quintessential&display=swap"
+      rel="stylesheet"
+    />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Nosifer&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nosifer&display=swap"
+      rel="stylesheet"
+    />
 
+    <script
+      src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js"
+      type="module"
+    ></script>
+    <script src="Javascript/script.js"></script>
   </head>
   <body>
     <header>
+      <!-- Mini Game Loading Animation -->
+      <div
+        id="loading-screen"
+        style="
+          display: none;
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: #1a1a1a;
+          z-index: 9999;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        "
+      >
+        <dotlottie-wc
+          src="https://lottie.host/797260e9-3da7-4dd0-abe8-f0db9ad82f59/kjGwzCDS1C.lottie"
+          style="width: 600px; height: 300px"
+          autoplay
+          loop
+        ></dotlottie-wc>
+        <p
+          style="
+            color: #fff;
+            font-family: &quot;Quintessential&quot;, cursive;
+            margin-top: 20px;
+          "
+        >
+          Brewing your adventure...
+        </p>
+      </div>
+
       <div class="logo-container">
         <img src="Images/logo.png" alt="logo" class="logo-img" />
         <span class="logo-text">Blood Brew Studio</span>
@@ -47,7 +95,7 @@
       </ul>
     </nav>
 
-    <br>
+    <br />
 
     <section
       class="product-detail-main-section"
@@ -55,9 +103,9 @@
       data-name="heart potion model"
       data-price="30.00"
     >
-        <a href="merchanise.html" class="returnbutton">&larr;</a>
-        
-        <div class="sketchfab-embed-wrapper">
+      <a href="merchanise.html" class="returnbutton">&larr;</a>
+
+      <div class="sketchfab-embed-wrapper">
         <div class="sketchfab-embed-wrapper">
           <iframe
             title="[Animation] Human Heart"
@@ -76,7 +124,7 @@
           >
           </iframe>
         </div>
-        </div>
+      </div>
 
       <div class="product-summary">
         <h2>Heart Potion Model</h2>
@@ -84,7 +132,7 @@
           A bold, contemporary ring showcasing a sculptural floral design. The
           large central petals feature a striking brushed or matte white metal
           finish, cradling a deep, round-cut blue sapphire center stone.
-          <br><br>
+          <br /><br />
           The ring is dramatically accented on the sides and beneath the main
           bloom with numerous pavé-set dark blue stones, offering a stunning
           contrast against the polished white metal band.
@@ -95,14 +143,11 @@
         </button>
       </div>
     </section>
-    
 
     <footer class="site-footer">
       <div class="copyright">
         <p>&copy; 2026 Blood Brew Studio. All rights reserved.</p>
       </div>
     </footer>
-
   </body>
 </html>
-

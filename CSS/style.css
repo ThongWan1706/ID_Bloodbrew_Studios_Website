@@ -74,6 +74,18 @@ h2 {
   font-size: 40px;
 }
 
+/* Animation */
+#loading-screen dotlottie-wc {
+    width: 300px;
+    height: 300px;
+    aspect-ratio: 1 / 1;
+
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    
+    transform: translateZ(0); 
+}
+
 /* Navigation */
 .navlist {
   list-style: none;

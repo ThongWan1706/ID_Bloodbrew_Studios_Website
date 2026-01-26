@@ -29,8 +29,48 @@
       href="https://fonts.googleapis.com/css2?family=Nosifer&display=swap"
       rel="stylesheet"
     />
+
+    <script
+      src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js"
+      type="module"
+    ></script>
+    <script src="Javascript/script.js"></script>
   </head>
   <body>
+    <!-- Mini Game Loading Animation -->
+    <div
+      id="loading-screen"
+      style="
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: #1a1a1a;
+        z-index: 9999;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      "
+    >
+      <dotlottie-wc
+        src="https://lottie.host/797260e9-3da7-4dd0-abe8-f0db9ad82f59/kjGwzCDS1C.lottie"
+        style="width: 600px; height: 300px"
+        autoplay
+        loop
+      ></dotlottie-wc>
+      <p
+        style="
+          color: #fff;
+          font-family: &quot;Quintessential&quot;, cursive;
+          margin-top: 20px;
+        "
+      >
+        Brewing your adventure...
+      </p>
+    </div>
+
     <header>
       <div class="logo-container">
         <img src="Images/logo.png" alt="logo" class="logo-img" />
@@ -92,7 +132,9 @@
           <p class="product-name">Beating Heart Model</p>
           <p class="product-price">$30.00</p>
           <br />
-          <a href="heartmodelpage.html" class="seemorebutton">See More &rarr;</a>
+          <a href="heartmodelpage.html" class="seemorebutton"
+            >See More &rarr;</a
+          >
         </div>
       </div>
 
