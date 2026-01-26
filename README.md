@@ -101,9 +101,10 @@ The features and structure of the pages for The Blood Brew Studio website includ
 
 
 <h2>Features Left to Implement</h2>
-- I was thinking to implement a like list where the user can "like" a product.
 
 - Due to the restdb upgrades, we only can implement one web API for our website. The original plan of the website was to have 2 web API keys, one for the checkout page and one for the contact form. Due to this, we have to give up the contact form API as the checkout API would be more important than the form API.
+
+- I was thinking to implement a like list where the user can "like" a product.
 
 
 <h1>Technologies Used</h1>
@@ -114,6 +115,7 @@ The setting up of API I used the RestDB which are used to store the upcoming ord
 The relevant screenshots of assistive AI are being included in the Images folder ("/Images/AssistiveAIpictures).
 1. Cart API: Google Gemini was used to help with the implementation of the Cart API.
 2. Form API: Google Gemini was used to help with the implementation of the Form API.
+3. Lottie Animation: Google Gemini was used to help with the implemention of the animation.
 
 
 <h1>Testing</h1>
