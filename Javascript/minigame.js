@@ -97,3 +97,17 @@ window.addEventListener('load', function() {
         }, 800);
     }
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+    const wizardImg = document.querySelector(".wizard-img");
+    const params = new URLSearchParams(window.location.search);
+    const gender = params.get('gender');
+
+    if (wizardImg) {
+        if (gender === 'female') {
+            wizardImg.src = "Images/femalewizard.jpg";
+        } else {
+            wizardImg.src = "Images/malewizard.jpg";
+        }
+    }
+});
