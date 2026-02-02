@@ -43,7 +43,7 @@ The existing features and structure of the pages for The Blood Brew Studio websi
 2. Homepage
 - The pages focus on introducing our company, Blood Brew Studio.
 - The page includes sections such as: 
-    - A banner that advertise our new game, Bloodbound Alchemy.
+    - A banner that advertise our company.
     - A welcoming message and a small brief of our company motive.
     - Our Legacy which explains what is our company is about.
     - A list of released games that contains the game icon, the name of the game, a small description of what the game is about, and a button that links to the Shop for Games page where there are various links for the user to download from various platforms.
@@ -183,6 +183,8 @@ Phone: https://www.pinterest.com/pin/422281208176306/
 Female Wizard: https://www.pinterest.com/pin/12947917675659609/ 
 
 Male Wizard: https://www.pinterest.com/pin/281543726368466/ 
+
+Banner working file: https://www.canva.com/design/DAHAJ7VilOQ/3-Ujvgl9Ud6pG6wBErcz9w/edit?utm_content=DAHAJ7VilOQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 
 <h1>Acknowledgements</h1>
