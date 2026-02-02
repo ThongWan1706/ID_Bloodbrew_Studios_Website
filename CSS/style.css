@@ -138,17 +138,16 @@ h2 {
 /* Banner Styling */
 .banner {
   width: 100%;
-  height: 250px;
-  overflow: hidden;
-  border: 2px solid #460d0d;
+  height: 200px;
+  background-image: url('../Images/bannerPlaceholder.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 5px solid #460d0d;
 }
-
-.banner-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
 
 .welcome-box {
   background-color: #290101;
@@ -159,12 +158,17 @@ h2 {
 }
 
 .info-card {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto 30px auto;
+  background-color: #460d0d;
+  padding: 40px;
+  box-sizing: border-box;
+  color: white;
   display: flex;
-  border: 1px solid #460d0d;
   align-items: center;
-  gap: 30px;
-  padding: 30px;
-  border-radius: 8px;
+  gap: 20px;
+  border-radius: 30px;
 }
 
 .card-image {
@@ -201,7 +205,7 @@ h2 {
 .section-title {
   color: #ffffff;
   font-size: 32px;
-  margin-bottom: -20px;
+  margin-bottom: 20px;
 }
 
 
