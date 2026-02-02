@@ -200,6 +200,7 @@ h2 {
   font-family: "Quintessential", serif;
   line-height: 1.6;
   margin-bottom: 20px;
+  font-size: 18px;
 }
 
 .section-title {
@@ -208,12 +209,6 @@ h2 {
   margin-bottom: 20px;
 }
 
-
-.placeholder-box {
-  font-size: 80px;
-  color: #460d0d;
-  font-family: "Nosifer", sans-serif;
-}
 
 /* Mini Game */
 .lab-wrapper {
@@ -1052,6 +1047,7 @@ h2 {
   }
   .card-text h2, .card-text h3 {
     text-align: center;
+    margin-bottom: 0px;
   }
 
   .box1 {
