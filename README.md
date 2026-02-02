@@ -1,9 +1,9 @@
-<h1>Blood Brew Studio</h1>
+<h1>Bloodbrew Studios</h1>
 Founded by Chloe and Thong Wan, Blood Brew Studio is a game company that specializies in dark, atmospheric experiences and stories. Our work centers around our flagship title, "Bloodbound Alchemy."
 
-Link of the Github Page: https://github.com/ThongWan1706/ID_Blood_Brew_Studio_Website 
+Link of the Github Page: https://github.com/ThongWan1706/ID_Bloodbrew_Studios_Website
 
-Link of the website: https://thongwan1706.github.io/ID_Blood_Brew_Studio_Website/ 
+Link of the website: https://thongwan1706.github.io/ID_Bloodbrew_Studios_Website/ 
 
 <h1>Design Process</h1>
 During the design phase, we want to center the website through immersive storytelling and thematic consistency as the game we're developing out, "Bloodbound Alchemy" took place in the Medieval time period where the player is a sorcerer that uses dark magic to brew potions by using human materials. The use of dark backgrounds, weathered textures, and the blood red color tone matches with the "Bloodbound" theme, which creates a high-contrast, moody atmosphere typical of dark fantasy and alchemical lore.
