@@ -7,8 +7,7 @@ Link of the website: https://thongwan1706.github.io/ID_Blood_Brew_Studio_Website
 
 <h1>Design Process</h1>
 During the design phase, we want to center the website through immersive storytelling and thematic consistency as the game we're developing out, "Bloodbound Alchemy" took place in the Medieval time period where the player is a sorcerer that uses dark magic to brew potions by using human materials. The use of dark backgrounds, weathered textures, and the blood red color tone matches with the "Bloodbound" theme, which creates a high-contrast, moody atmosphere typical of dark fantasy and alchemical lore.
-
-
+<br>
 The main purpose of the website is not only to expand on our company branding, it also allow users to share their thoughts and sugesstions through the discussion page. It is because the game "Bloodbound Alchemy" has a lot of story endings, which can be determined by the choices made by the players in the game. The players can discuss different views regarding on the story and share their experiences there as well.
 
 
@@ -80,7 +79,7 @@ The existing features and structure of the pages for The Blood Brew Studio websi
 
 7. Shop For Games Page
 - The page focus on the games that are being developed by the company and upcoming games.
-- A game is being presented in a box which includes the name of the game, the app icon of the games and Call to Action buttons. that the user can click in, and it will bring the user to the respective platforms that the user can downnload the game.
+- A game is being presented in a box which includes the name of the game, the app icon of the game and Call to Action buttons that the user can click in, and it will bring the user to the respective platforms that the user can downnload the game.
 - While the game is being teased out, the Call to Action buttons are being replaced to the "Upcoming" text.
 
 8. Contact Page
