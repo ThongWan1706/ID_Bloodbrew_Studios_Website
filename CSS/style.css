@@ -58,7 +58,7 @@ header {
 .logo-text {
   font-weight: bold;
   font-size: 40px;
-  font-family: "Nosifer", "Kings", sans-serif;
+  font-family: "Rubik Wet Paint", system-ui;
   font-weight: 400;
   font-style: normal;
   color: #e61414;
@@ -76,12 +76,22 @@ h1 {
   color: rgb(247, 44, 44);
   text-align: center;
   font-size: 50px;
+  padding-bottom: -20px;
+  font-family: "New Rocker", system-ui;
 }
 
 h2 {
   color: rgb(203, 35, 35);
   text-align: center;
-  font-size: 40px;
+  font-size: 26px;
+  font-family: "Cinzel Decorative", serif;
+}
+
+.intro {
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 2%;
 }
 
 /* Animation */
@@ -148,19 +158,20 @@ h2 {
   justify-content: center;
   overflow: hidden;
   border-bottom: 5px solid #460d0d;
-  animation: bannerGlitch 3s infinite;
+  animation: bannerGlitch 1.5s infinite;
 }
 
 
 /* banner glitch animation */
 @keyframes bannerGlitch {
   0%   { transform: translate(0); filter: none; }
-  20%  { transform: translate(1px, 0px); filter: hue-rotate(20deg); }
-  40%  { transform: translate(0px, 0px); filter: hue-rotate(-20deg); }
-  60%  { transform: translate(0px, 0px); filter: contrast(150%); }
-  80%  { transform: translate(3px, 0px); filter: saturate(200%); }
+  20%  { transform: translate(0px, 0px); filter: hue-rotate(40deg); }
+  40%  { transform: translate(0px, 0px); filter: hue-rotate(20deg); }
+  60%  { transform: translate(0px, 0px); filter: contrast(-10%); }
+  80%  { transform: translate(0px, 0px); filter: saturate(100%); }
   100% { transform: translate(0); filter: none; }
 }
+
 
 .welcome-box {
   background-color: #290101;
@@ -201,6 +212,7 @@ h2 {
 .card-text {
   flex: 1;
   color: white;
+
 }
 
 .card-text h2, .card-text h3 {
@@ -220,6 +232,7 @@ h2 {
   color: #ffffff;
   font-size: 40px;
   margin-bottom: 20px;
+  font-family: "Cinzel Decorative", serif;
 }
 
 
@@ -374,7 +387,7 @@ h2 {
   color: #ffffff;
   text-align: center;
   font-size: 20px;
-  padding-top: 2% ;
+  padding-bottom: 0.5%;
 }
 
 .subheader {
