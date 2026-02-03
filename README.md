@@ -180,7 +180,7 @@ Content are all self created.
 <h1>Media</h1>
 Phone: https://www.pinterest.com/pin/422281208176306/
 
-Female Wizard: https://www.pinterest.com/pin/12947917675659609/ 
+Female Wizard: https://www.pinterest.com/pin/19492210989123158/
 
 Male Wizard: https://www.pinterest.com/pin/281543726368466/ 
 
