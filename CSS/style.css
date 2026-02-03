@@ -115,9 +115,9 @@ h2 {
   margin: 0;
   padding: 15px 0;
   background-color: #460d0d;
-  font-family: "Quintessential", serif;
+  font-family: "EB Garamond", serif;
   font-weight: 400;
-  font-style: normal;
+  font-size: 20px;
 }
 
 .navlist li a,
@@ -132,7 +132,7 @@ h2 {
 
 .navlist li a:hover,
 .communitynav li a:hover {
-  color: #b87333;
+  color: #9e1717;
 }
 
 /* Homepage*/
@@ -453,20 +453,6 @@ h2 {
   font-size: 14px;
 }
 
-.communitynav {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  gap: 35px;
-  margin: 0;
-  padding: 15px 0;
-  background-color: #5e2727;
-  font-family: "Quintessential", serif;
-  font-weight: 400;
-  font-style: normal;
-  margin: 1% 5% 1% 5%;
-}
-
 /* Sorting Toggle */
 .sorting-row {
   display: flex;
@@ -502,7 +488,7 @@ h2 {
 
 .guide-card {
   background-color: rgba(0, 0, 0, 0.4);
-  border: 1px solid #2a475e;
+  border: 1px solid #792229;
   display: flex;
   flex-direction: column;
 }
@@ -516,10 +502,10 @@ h2 {
 }
 
 .card-label {
-  background: #1b2838;
+  background: #381b1b;
   padding: 8px 12px;
   font-size: 14px;
-  color: #66c0f4;
+  color: #c90f0f;
 }
 
 .card-main {
@@ -558,16 +544,17 @@ h2 {
 .card-footer {
   margin-top: auto;
   padding-top: 10px;
-  border-top: 1px solid #3d4450;
+  border-top: 1px solid #392020;
   display: flex;
   justify-content: space-between;
   font-size: 12px;
   color: #66c0f4;
 }
 
-.rating {
-  color: #89be8a;
+.rating, .stats {
+  color: #862727;
 }
+
 
 /* Contact Page Section */
 .contact-section {
