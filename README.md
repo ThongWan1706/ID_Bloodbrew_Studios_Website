@@ -168,14 +168,35 @@ Checkout Page:
 Mini Game Page:
 1. Go to the Mini Game Page by clicking the top right button which says "Mini Game".
 2. It should have a short loading animation screen before it really enters into the mini game page.
-2. Try dragging in Phoenix Feather and Star Dust into the cauldron.
-3. The result should show "Sun Essence".
-4. Try dragging in Phoenix Feather again, it should remain unchange as the cauldron is being used.
-5. Click on the button that clear the cauldron.
-6. Continue to drag in other materials to see different material combinations and results.
+3. Try dragging in Phoenix Feather and Star Dust into the cauldron.
+4. The result should show "Sun Essence".
+5. Try dragging in Phoenix Feather again, it should remain unchange as the cauldron is being used.
+6. Click on the button that clear the cauldron.
+7. Continue to drag in other materials to see different material combinations and results.
 
 <h1>Content</h1>
 Content are all self created.
+
+<h1>Individual Contributions</h1>
+Here is the list of contributions of our team had done:
+
+1. Lam Thong Wan
+- Coded the overall website and mobile responsive
+- Took care of the API for the cart page
+- Took care of the contact form submission
+- Completed the script for the Mini Game
+- Designed the game icon and company logo for the website
+- Implemented the Lottie Animation for the website
+
+2. Chloe Gabriella Kwie
+- Help created the low fidelity of the webpages
+- Help planned the overall website structure
+- Assisted in styling of the pages
+- Quality checking for the website [Ensuring the website run smoothly & mobile responsive]
+- Research on suitable Lottie Animations that can be used for the website
+- Research on suitable Google Fonts styles that can be used for the website
+- Designed the banner for the homepage for our website
+
 
 <h1>Media</h1>
 Phone: https://www.pinterest.com/pin/422281208176306/
