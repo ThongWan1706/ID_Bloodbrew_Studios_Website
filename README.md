@@ -178,6 +178,7 @@ Mini Game Page:
 Content are all self created.
 
 <h1>Individual Contributions</h1>
+
 Here is the list of contributions of our team had done:
 
 1. Lam Thong Wan
@@ -199,13 +200,18 @@ Here is the list of contributions of our team had done:
 
 
 <h1>Media</h1>
-Phone: https://www.pinterest.com/pin/422281208176306/
-
-Female Wizard: https://www.pinterest.com/pin/19492210989123158/
-
-Male Wizard: https://www.pinterest.com/pin/281543726368466/ 
-
-Banner working file: https://www.canva.com/design/DAHAJ7VilOQ/3-Ujvgl9Ud6pG6wBErcz9w/edit?utm_content=DAHAJ7VilOQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+- Phone: https://www.pinterest.com/pin/422281208176306/
+- Female Wizard: https://www.pinterest.com/pin/19492210989123158/
+- Male Wizard: https://www.pinterest.com/pin/281543726368466/ 
+- Banner working file: https://www.canva.com/design/DAHAJ7VilOQ/3-Ujvgl9Ud6pG6wBErcz9w/edit?utm_content=DAHAJ7VilOQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+- Phoenix Feather: https://www.pinterest.com/pin/7388786884717003/
+- Glacier Stone: https://www.pinterest.com/pin/16958936096703711/
+- Star Dust: https://www.pinterest.com/pin/246642517085499555/
+- Nightshade Petal: https://www.pinterest.com/pin/257479303691859114/
+- Dragon Tear: https://www.pinterest.com/pin/20407004557002261/
+- Whirlwind Vapor: https://www.pinterest.com/pin/8655424281682131/
+- Obsidian Shard: https://www.pinterest.com/pin/1021472759248513067/
+- Mandrake Root: https://www.pinterest.com/pin/38491771811980599/
 
 
 <h1>Acknowledgements</h1>
