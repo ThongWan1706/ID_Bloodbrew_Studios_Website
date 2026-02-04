@@ -264,6 +264,11 @@ h2 {
   box-shadow: 0 0 30px #9d4edd;
 }
 
+.ingredients{
+  width: 100px;
+  height: 100px;
+}
+
 .shelf {
   background: #251a30;
   padding: 30px;
