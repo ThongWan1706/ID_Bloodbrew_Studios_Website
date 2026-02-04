@@ -1030,7 +1030,7 @@ h2 {
   }
 
   .logo-text {
-    font-size: 24px;
+    font-size: 40px;
   }
 
   .logo-container {
@@ -1038,17 +1038,15 @@ h2 {
     justify-content: center;
   }
 
-  .navlist,
-  .communitynav {
+  .navlist{
     flex-wrap: wrap;
     gap: 10px;
-    padding: 10px;
     justify-content: center;
   }
 
   .navlist li a,
   .communitynav li a {
-    font-size: 14px;
+    font-size: 18px;
   }
 
   .headerdescription {
@@ -1087,7 +1085,7 @@ h2 {
   .guide-card.small {
     grid-column: span 1;
     margin-right: 3%;
-    margin-left: 3%;
+
   }
 
   .playedgames,
