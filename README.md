@@ -200,7 +200,6 @@ Here is the list of contributions of our team had done:
 
 
 <h1>Media</h1>
-- Phone: https://www.pinterest.com/pin/422281208176306/
 
 - Female Wizard: https://www.pinterest.com/pin/19492210989123158/
 
@@ -223,6 +222,8 @@ Here is the list of contributions of our team had done:
 - Obsidian Shard: https://www.pinterest.com/pin/1021472759248513067/
 
 - Mandrake Root: https://www.pinterest.com/pin/38491771811980599/
+
+- Phone: https://www.pinterest.com/pin/422281208176306/
 
 
 
