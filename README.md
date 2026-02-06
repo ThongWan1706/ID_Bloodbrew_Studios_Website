@@ -225,6 +225,8 @@ Here is the list of contributions of our team had done:
 
 - Phone: https://www.pinterest.com/pin/422281208176306/
 
+- Minigame background: https://sketchfab.com/3d-models/dark-magic-dungeon-3f8123b7cd904dfa9404bcd79d11027d 
+
 
 
 <h1>Acknowledgements</h1>
