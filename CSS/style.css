@@ -237,6 +237,15 @@ h2 {
 
 
 /* Mini Game */
+.minigamebody {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../Images/ShopBackground.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-color: #000000; 
+}
+
 .lab-wrapper {
   display: flex;
   justify-content: center;
@@ -260,8 +269,8 @@ h2 {
   height: auto;
   border-radius: 10px;
   object-fit: contain;
-  border-color: #9d4edd;
-  box-shadow: 0 0 30px #9d4edd;
+  border-color: #72ce4a;
+  box-shadow: 0 0 30px #a4dd4e;
 }
 
 .ingredients{
@@ -271,13 +280,13 @@ h2 {
 }
 
 .shelf {
-  background: #251a30;
+  background: #19151e;
   padding: 30px;
   border-radius: 20px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
-  border: 5px solid #e5caff;
+  border: 5px solid #a9cb76;
   flex: 1;
   height: fit-content;
 }
@@ -285,7 +294,7 @@ h2 {
 .potion {
   cursor: grab;
   transition: transform 0.2s;
-  background-color: #7070dc;
+  background-color: #2b2b37;
   color: white;
   display: flex;
   align-items: center;
@@ -315,7 +324,7 @@ h2 {
 #status-text {
   font-size: 28px;
   font-weight: bold;
-  color: #e5caff;
+  color: #a9cb76;
   text-align: center;
   margin-bottom: 20px;
   font-family: "Quintessential", serif;
@@ -338,8 +347,8 @@ h2 {
 }
 
 .cauldron.drag-over {
-  border-color: #9d4edd;
-  box-shadow: 0 0 30px #9d4edd;
+  border-color: #72ce4a;
+  box-shadow: 0 0 30px #a4dd4e;
   transform: scale(1.05);
 }
 
@@ -359,15 +368,17 @@ h2 {
 
 #reset-btn {
   padding: 10px 20px;
-  background: #443355;
+  background: #72ce4a;
   color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  color: black;
 }
 
 #reset-btn:hover {
-  background: #5a4470;
+  background: #315f1e;
+  color: white;
 }
 
 /* Discussion Page */
